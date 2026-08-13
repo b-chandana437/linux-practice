@@ -1,1 +1,18 @@
+# Linux Day01
+## Basic Linux Commands
+pwd - Shows the current working directory
+ls - Lists files and directories
+ls -l - shows detailed file information
+cd - Changes directory
+touch - Create an Empty file
+cat - Displays file contents
+cp - Copies files or directories
+mv - Remove an empty directory
+rm - Removes files
+rmdir - Removes an empty directory
+clear - Clears the terminal
+whoami - Shows the Current user
+date - Shows the current date and time
+hostname - Shows the system hostname
+
 
